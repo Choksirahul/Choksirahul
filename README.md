@@ -1,6 +1,6 @@
 ## About Me
 - 👋 Hey there, I’m Rahul Choksi.
-- 💻 As a front-end developer, I take pleasure in creating intriguing and interactive web experiences. 
+- 💻 As a front-end developer, I enjoy crafting engaging and interactive web experiences.
 - 🌱 Currently learning React.
 - 👯 Looking to collaborate on [Project/Idea].
 - 🤔 Open to discuss anything tech-related.
