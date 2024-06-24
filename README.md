@@ -46,5 +46,3 @@
 ![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
 
 
-### Visitors
-![](https://komarev.com/ghpvc/?username=meviru&style=for-the-badge)
