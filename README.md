@@ -1,3 +1,5 @@
+![logo](https://github.com/Choksirahul/Choksirahul/blob/main/frontend.gif)
+
 ## About Me
 - 👋 Hey there, I’m Rahul Choksi.
 - 💻 As a front-end developer, I enjoy crafting engaging and interactive web experiences.
