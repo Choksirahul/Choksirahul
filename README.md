@@ -1,4 +1,4 @@
-![logo](https://github.com/Choksirahul/Choksirahul/blob/main/frontend.gif)
+![logo](https://github.com/Choksirahul/Choksirahul/blob/main/rahul-choksi-skill-banner.png)
 
 ## About Me
 - 👋 Hey there, I’m Rahul Choksi.
